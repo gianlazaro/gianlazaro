@@ -1,6 +1,6 @@
 ### Hey there! <img src="https://cdn3.emoji.gg/emojis/2213-kirbywave.gif" width="32px">
 
-<p> I'm Gian. I am a fullstack software engineer. </p>
+<p> I'm Gian. I am a front-end software engineer. </p>
 
 Check out my <b>[resume](https://drive.google.com/file/d/1hH4iWkx8OxzEr_HooPOhHDqYmFzjYBbm/view?usp=sharing)</b>! If you're interested to learn more about my work, let's connect on <b>[LinkedIn](https://linkedin.com/in/gianlazaro)</b> or send me an email at <b>hello@gianlazaro.com</b>
 
