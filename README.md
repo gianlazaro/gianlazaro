@@ -2,7 +2,7 @@
 
 <p> I'm Gian. I am a front-end software engineer. </p>
 
-Check out my <b>[resume](https://drive.google.com/file/d/1UlYBXxEaEztCR9dFtkLXSy5PVfmGfhhH/view?usp=sharing)</b>! If you're interested to learn more about my work, let's connect on <b>[LinkedIn](https://linkedin.com/in/gianlazaro)</b> or send me an email at <b>hello@gianlazaro.com</b>
+Check out my <b>[resume](https://www.gianlazaro.com/GianLazaro-resume.pdf)</b>! If you're interested to learn more about my work, let's connect on <b>[LinkedIn](https://linkedin.com/in/gianlazaro)</b> or send me an email at <b>hello@gianlazaro.com</b>
 
 My portfolio is <b>[gianlazaro.com](https://www.gianlazaro.com)</b> if you'd like to some more of my work.
 
